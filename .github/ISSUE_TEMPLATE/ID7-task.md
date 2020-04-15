@@ -9,7 +9,7 @@ assignees: ''
 
 References user story #1
 
-NOTE: the commits in the branch `task-6_squash_preferred_project_workflow` **DO NOT** reference task `#6`, and this is why this is the **preferred workflow** for the second half of Sprint 2 and Sprint 3 of the group project, and can be used for open-source or industry projects as well.
+NOTE: the commits in the branch `task-7_squash_preferred_project_workflow` **DO NOT** reference task `#7`, and this is why this is the **preferred workflow** for the second half of Sprint 2 and Sprint 3 of the group project, and can be used for open-source or industry projects as well.
 
 ## TODO:
 - [ ] Create a new PR having the **base** branch `master` and the **compare** branch `task-7_squash_preferred_project_workflow`
